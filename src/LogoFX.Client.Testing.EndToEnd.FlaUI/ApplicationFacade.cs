@@ -1,4 +1,4 @@
-﻿using Attest.Testing.Contracts;
+﻿using Attest.Testing.Lifecycle;
 using FlaUI.Core;
 
 namespace LogoFX.Client.Testing.EndToEnd.FlaUI
